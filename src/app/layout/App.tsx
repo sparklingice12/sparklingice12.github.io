@@ -177,7 +177,6 @@ export default function App() {
                 }}
               >
                 <AppButtons
-                  // pages={pages}
                   pages={visiblePages}
                   selectedIndex={selectedIndex}
                   setSelectedIndex={setSelectedIndex}
@@ -191,7 +190,6 @@ export default function App() {
               <Grid
                 sx={{
                   scrollBehavior: "smooth",
-                  // overflow: 'scroll',
                   overflowY: "auto",
                   height: `calc(100vh - 20px - 33px)`,
                 }}
@@ -208,10 +206,6 @@ export default function App() {
                       element={<MDContainer path={`./pages/${name}`} />}
                     />
                   ))}
-                  <Route
-                    path="/docs"
-                    element={<MDContainer path={`./pages/docs.md`} />}
-                  />
                   <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>
               </Grid>
@@ -222,7 +216,6 @@ export default function App() {
           </Grid>
         </Grid>
       </Container>
-      {/* </Router> */}
     </ThemeProvider>
   );
 }

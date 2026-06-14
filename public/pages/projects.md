@@ -99,7 +99,7 @@
 </ul>
 
 ## **SUPER ADMIN APP** 🔗
-<p style="text-align: center;">Developer | Contract at <a href="https://wela.online/en/">WELA School Systems</a></p>
+<p style="text-align: center;">Developer | Contract at <a href="https://livro.systems/">Livro Systems Inc.</a></p>
 <style>
     .zoom {
       transition: transform 0.2s;
@@ -134,7 +134,7 @@
 
 
 ## **WELA PARENT APP**🔗
-<p style="text-align: center;">Developer | Contract at <a href="https://wela.online/en/">WELA School Systems</a></p>
+<p style="text-align: center;">Developer | Contract at <a href="https://livro.systems/">Livro Systems Inc.</a></p>
 <style>
     .zoom {
       transition: transform 0.2s;
@@ -166,4 +166,37 @@
   <li>Python</li>
   <li>Firebase</li>
   <li>Fastlane</li>
+</ul>
+
+
+## **SMART CANTEEN**🔗
+<p style="text-align: center;">Developer | Contract at <a href="https://livro.systems/">Livro Systems Inc.</a></p>
+<style>
+    .zoom {
+      transition: transform 0.2s;
+      transform-origin: center center;
+    }
+    .zoom:hover {
+      transform: scale(1.2);
+    }
+    .responsive-img {
+      max-width: 100%;
+      height: auto;
+    }
+    @media (min-width: 768px) {
+      .responsive-img {
+        max-width: 500px;
+      }
+    }
+</style>
+<div style="text-align: left; margin-top: 20px;">
+  <img src="../wela-canteen.png" alt="Smart Canteen" width="500" height="auto" class="zoom responsive-img">
+  <p>- A cashless canteen payment system that lets students pay for meals and supplies with a tap of their school ID — fast, secure, and fully tracked at every transaction.</p>
+  <p>Smart Canteen runs on a POS terminal at the canteen counter, letting cashiers process student payments for meals and supplies through a simple tap of their school ID or RFID card. Every transaction is logged automatically, parents can monitor spending in real time, and daily limits keep student allowances in check. It reduces cash handling, shortens queue times, and keeps canteen operations clean and accountable.</p>
+</div>
+<p><strong>TECH STACK USED:</strong></p>
+<ul>
+  <li>RFID</li>
+  <li>Flutter</li>
+  <li>Python</li>
 </ul>

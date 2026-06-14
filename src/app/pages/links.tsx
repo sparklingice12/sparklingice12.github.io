@@ -8,7 +8,7 @@ export const links = [
   {
     index: 0,
     title: "Find me on Github",
-    href: "https://github.com/sparklingice12",
+    href: "https://github.com/sparklingice13",
     icon: <FaGithub />,
   },
   {
