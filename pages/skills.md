@@ -1,21 +1,29 @@
 # 💻 Skills
 
-## General Tech Stacks
+## Core Competencies
 - Architecture Design
+- System Design
+- Design Patterns
+- Clean Architecture
+- Deployment Automation
 - Mobile App Development
 - Backend Development
 
-## Programming languages
-- Flutter 
+## Programming Languages
+- Python
+- TypeScript
+- Dart
+
+## Frameworks & Tools
+- Flutter
 - GetX
-- Frappe/Python
 - React.js
-- Typescript
+- Frappe
 - Fastlane
 
 
 ## Databases
-- Firestore
+- Firebase
 - MariaDB
 - MySQL
 - SQLite
